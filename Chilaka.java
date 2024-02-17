@@ -3,4 +3,8 @@ public class Chilaka {
         System.out.println("pp");
     }
 
+    public void something() {
+
+    }
+
 }
